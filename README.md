@@ -17,6 +17,6 @@
 ---
 
 ### 📊 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Copykopi&show_icons=true&theme=radical&hide_title=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nyx-Developer&show_icons=true&theme=radical&hide_title=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Copykopi&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyx-Developer&layout=compact&theme=radical)
